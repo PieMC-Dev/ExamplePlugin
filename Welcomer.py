@@ -5,6 +5,6 @@ class main():
     
     
  function welcome():
-  if PieMC.player joined:
+  if PieMC.player(joined):
      PieMC.chat(broadcast('Welcome', player.username, 'to', PieMC.servername)
              
