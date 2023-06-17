@@ -1,7 +1,7 @@
 import PieMC
 class main():
   def __init__ player():
-    player.username = username
+    player.username = PieMC.player(username)
     
     
   def username(player):
