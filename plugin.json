@@ -1,7 +1,7 @@
 {
-  "Version" = "0.1"
+  "Version" = 0.1
   "Author" = "PieMCTeam"
-  "Api" = "0.1.0.1"
+  "Api" = 0.1.0.1
   "Permissions" = []
   "Commands" = []
 }
