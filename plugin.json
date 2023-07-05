@@ -1,7 +1,7 @@
 {
   "Name":"ExamplePlugin"
   "Version":"0.1",
-  "Author":"PieMCTeam",
+  "Author":["skyss0fly", "inaa", "andiricum2", "LapisMYT"],
   "Api":"0.1.0.1",
   "Permissions": [],
   "Commands": [],
